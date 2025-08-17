@@ -1,4 +1,5 @@
 export const rockLyrics: { text: string; writeIn: number; sleepDelay: number; who: string; }[] = [
+    { "text": "Rock That Body - The Black Eyed Peas", "writeIn": 0.1, "sleepDelay": 2, "who": "bot" },
     { "text": "I wanna da-", "writeIn": 0.06, "sleepDelay": 0.2, "who": "men" },
     { "text": "I wanna dance in the light", "writeIn": 0.05, "sleepDelay": 1, "who": "men" },
     { "text": "I wanna ro-", "writeIn": 0.07, "sleepDelay": 0.2, "who": "men" },

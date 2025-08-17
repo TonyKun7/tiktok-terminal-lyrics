@@ -20,7 +20,7 @@ Each character has a custom typing delay, and each line can pause before the nex
 1. Clone the project:
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/TonyKun7/tiktok-terminal-lyrics
    cd tiktok-terminal-lyrics
    ```
 
